@@ -1,0 +1,134 @@
+Date,Month,Bike_Sales,Event
+2014-01-31,January,70,New Year
+2014-02-28,February,73,No Major Event
+2014-03-31,March,115,No Major Event
+2014-04-30,April,125,Easter
+2014-05-31,May,141,No Major Event
+2014-06-30,June,120,Constitution Day
+2014-07-31,July,122,Tourism Season
+2014-08-31,August,124,No Major Event
+2014-09-30,September,90,No Major Event
+2014-10-31,October,71,Autumn Holiday
+2014-11-30,November,59,No Major Event
+2014-12-31,December,62,Christmas
+2015-01-31,January,67,New Year
+2015-02-28,February,67,No Major Event
+2015-03-31,March,113,No Major Event
+2015-04-30,April,130,Easter
+2015-05-31,May,115,No Major Event
+2015-06-30,June,112,Constitution Day
+2015-07-31,July,110,Tourism Season
+2015-08-31,August,125,No Major Event
+2015-09-30,September,90,No Major Event
+2015-10-31,October,72,Autumn Holiday
+2015-11-30,November,58,No Major Event
+2015-12-31,December,60,Christmas
+2016-01-31,January,58,New Year
+2016-02-29,February,65,No Major Event
+2016-03-31,March,89,No Major Event
+2016-04-30,April,112,Easter
+2016-05-31,May,119,No Major Event
+2016-06-30,June,114,Constitution Day
+2016-07-31,July,100,Tourism Season
+2016-08-31,August,109,No Major Event
+2016-09-30,September,88,No Major Event
+2016-10-31,October,66,Autumn Holiday
+2016-11-30,November,58,No Major Event
+2016-12-31,December,57,Christmas
+2017-01-31,January,60,New Year
+2017-02-28,February,55,No Major Event
+2017-03-31,March,97,No Major Event
+2017-04-30,April,98,Easter
+2017-05-31,May,110,No Major Event
+2017-06-30,June,102,Constitution Day
+2017-07-31,July,93,Tourism Season
+2017-08-31,August,103,No Major Event
+2017-09-30,September,76,No Major Event
+2017-10-31,October,63,Autumn Holiday
+2017-11-30,November,60,No Major Event
+2017-12-31,December,55,Christmas
+2018-01-31,January,63,New Year
+2018-02-28,February,55,No Major Event
+2018-03-31,March,70,No Major Event
+2018-04-30,April,106,Easter
+2018-05-31,May,122,No Major Event
+2018-06-30,June,114,Constitution Day
+2018-07-31,July,101,Tourism Season
+2018-08-31,August,114,No Major Event
+2018-09-30,September,78,No Major Event
+2018-10-31,October,68,Autumn Holiday
+2018-11-30,November,65,No Major Event
+2018-12-31,December,56,Christmas
+2019-01-31,January,64,New Year
+2019-02-28,February,64,No Major Event
+2019-03-31,March,93,No Major Event
+2019-04-30,April,114,Easter
+2019-05-31,May,111,No Major Event
+2019-06-30,June,101,Constitution Day
+2019-07-31,July,108,Tourism Season
+2019-08-31,August,108,No Major Event
+2019-09-30,September,76,No Major Event
+2019-10-31,October,68,Autumn Holiday
+2019-11-30,November,67,No Major Event
+2019-12-31,December,56,Christmas
+2020-01-31,January,71,New Year
+2020-02-29,February,68,No Major Event
+2020-03-31,March,89,No Major Event
+2020-04-30,April,131,Easter
+2020-05-31,May,157,No Major Event
+2020-06-30,June,145,Constitution Day
+2020-07-31,July,130,Tourism Season
+2020-08-31,August,128,No Major Event
+2020-09-30,September,108,No Major Event
+2020-10-31,October,101,Autumn Holiday
+2020-11-30,November,82,No Major Event
+2020-12-31,December,78,Christmas
+2021-01-31,January,43,New Year
+2021-02-28,February,50,No Major Event
+2021-03-31,March,152,No Major Event
+2021-04-30,April,131,Easter
+2021-05-31,May,129,No Major Event
+2021-06-30,June,130,Constitution Day
+2021-07-31,July,123,Tourism Season
+2021-08-31,August,118,No Major Event
+2021-09-30,September,100,No Major Event
+2021-10-31,October,80,Autumn Holiday
+2021-11-30,November,80,No Major Event
+2021-12-31,December,66,Christmas
+2022-01-31,January,82,New Year
+2022-02-28,February,72,No Major Event
+2022-03-31,March,121,No Major Event
+2022-04-30,April,109,Easter
+2022-05-31,May,125,No Major Event
+2022-06-30,June,120,Constitution Day
+2022-07-31,July,114,Tourism Season
+2022-08-31,August,137,No Major Event
+2022-09-30,September,104,No Major Event
+2022-10-31,October,81,Autumn Holiday
+2022-11-30,November,76,No Major Event
+2022-12-31,December,60,Christmas
+2023-01-31,January,78,New Year
+2023-02-28,February,77,No Major Event
+2023-03-31,March,107,No Major Event
+2023-04-30,April,113,Easter
+2023-05-31,May,128,No Major Event
+2023-06-30,June,139,Constitution Day
+2023-07-31,July,111,Tourism Season
+2023-08-31,August,125,No Major Event
+2023-09-30,September,110,No Major Event
+2023-10-31,October,88,Autumn Holiday
+2023-11-30,November,82,No Major Event
+2023-12-31,December,67,Christmas
+2024-01-31,January,68,New Year
+2024-02-29,February,81,No Major Event
+2024-03-31,March,107,No Major Event
+2024-04-30,April,120,Easter
+2024-05-31,May,138,No Major Event
+2024-06-30,June,116,Constitution Day
+2024-07-31,July,115,Tourism Season
+2024-08-31,August,130,No Major Event
+2024-09-30,September,108,No Major Event
+2024-10-31,October,85,Autumn Holiday
+2024-11-30,November,83,No Major Event
+2024-12-31,December,70,Christmas
+2025-01-31,January,77,New Year

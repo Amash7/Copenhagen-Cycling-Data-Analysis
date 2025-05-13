@@ -1,0 +1,1 @@
+All the data in this folder has been combined into one single .csv file named "accident_mode_pair_summary.csv" which is present in the parent folder for ease of visualizations!!!
